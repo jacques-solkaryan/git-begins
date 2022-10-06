@@ -1,0 +1,4 @@
+git clone 'URL'
+git add . (ou l'emplacement du fichier)
+git commit -m "texte"
+git push -u origin main

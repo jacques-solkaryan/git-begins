@@ -2,3 +2,4 @@ git clone 'URL'
 git add . (ou l'emplacement du fichier)
 git commit -m "texte"
 git push -u origin main
+git checkout -b 'add-create-branch-command'
